@@ -1,2 +1,2 @@
-# git-nyu-proctice
+# git-nyu-practice
 My first nyu practice
